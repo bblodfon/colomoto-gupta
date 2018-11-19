@@ -12,3 +12,4 @@ git clone https://github.com/bblodfon/colomotoGupta.git
 cd pathTo/colomoto-docker
 python colomoto_docker.py -V 2018-08-17 --bind /pathTo/colomotoGupta
 ```
+The [gupta_john_zobolas.ipynb](https://github.com/bblodfon/colomotoGupta/blob/master/gupta_john_zobolas.ipynb) is the main notebook file.
