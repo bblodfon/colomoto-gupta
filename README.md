@@ -1,4 +1,4 @@
-# colomotoGupta
+# colomoto-gupta
 
 ## Intro
  
